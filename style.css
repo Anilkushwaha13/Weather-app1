@@ -48,6 +48,7 @@ body{
 }
 .search button img {
     width:25px;
+    margin-top: 4px;
 }
 .Weather-icon{
     width: 170px;
